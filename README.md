@@ -1,1 +1,1 @@
-**my vagrant project**
+Hello Ubuntu
